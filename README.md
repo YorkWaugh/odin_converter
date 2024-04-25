@@ -1,0 +1,1 @@
+This script can convert Samsung's official zip format firmware into the tar format file required by Net Odin.
