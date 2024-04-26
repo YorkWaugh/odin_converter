@@ -2,7 +2,7 @@
 
 setlocal EnableDelayedExpansion
 
-cd /d "input"
+cd /d "%~dp0\input"
 
 if "%PROCESSOR_ARCHITECTURE%"=="AMD64" (
   set "ARCH=x64"
