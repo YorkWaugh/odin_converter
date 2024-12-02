@@ -1,14 +1,14 @@
 Modern7z
 
 https://www.tc4shell.com/en/7zip/modern7z/
-Copyright (C) 2018-22 Dec Software.
+Copyright (C) 2018-24 Dec Software.
 
 Modern7z is a plugin for the popular 7-Zip archiver. It adds support for the
 following leading-edge compression methods:
 
-    Zstandard v1.5.5
+    Zstandard v1.5.6
     Brotli v1.1.0
-    LZ4 v1.9.4
+    LZ4 v1.10.0
     LZ5 v1.5
     Lizard v1.0
     Fast LZMA2 v1.0.1
